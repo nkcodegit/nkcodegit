@@ -48,7 +48,7 @@
 ![Microsoft_Defender_for_Endpoint](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white.)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nkcodegit&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nkcodegit&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nkcodegit&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=nkcodegit&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
