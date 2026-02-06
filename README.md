@@ -52,13 +52,6 @@
 # 👁 Profile Views Counter
 ![Profile Views](https://komarev.com/ghpvc/?username=nkcodegit&color=blue)
 
-## 📈 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkcodegit&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nkcodegit&theme=react&hide_border=false)
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
