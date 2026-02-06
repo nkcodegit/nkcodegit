@@ -49,8 +49,8 @@
 
 # 📊 GitHub Stats
 
-## 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkcodegit&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# 👁 Profile Views Counter
+![Profile Views](https://komarev.com/ghpvc/?username=nkcodegit&color=blue)
 
 ## 📈 Overall Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkcodegit&theme=react&hide_border=false&include_all_commits=true&count_private=true)
